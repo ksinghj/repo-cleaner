@@ -2,6 +2,8 @@
 
 A Python script to help clean up and manage your GitHub repositories.
 
+<img width="740" alt="Screenshot 2025-02-28 at 16 57 01" src="https://github.com/user-attachments/assets/629b1506-d5ff-4ebd-b2eb-7a54a3bba759" />
+
 ## Requirements
 
 *   Python 3.6 or higher
